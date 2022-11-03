@@ -29,7 +29,7 @@ public class AuthorController {
         } finally {
 
         }
-        return "redirect:/authors";
+        return "redirect:/authorss";
     }
 }
 
